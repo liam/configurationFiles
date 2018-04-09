@@ -1,0 +1,26 @@
+{
+  "[json]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "[python]": {
+    "editor.formatOnSave": false
+  },
+  "explorer.autoReveal": false,
+  "editor.formatOnSave": true,
+  "editor.renderIndentGuides": true,
+  "editor.tabSize": 2,
+  "extensions.ignoreRecommendations": false,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontWeight": "normal",
+  "editor.fontSize": 12,
+  "workbench.colorTheme": "Palenight Theme",
+  "workbench.editor.showTabs": true
+}
