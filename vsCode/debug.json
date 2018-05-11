@@ -27,6 +27,16 @@
       "internalConsoleOptions": "openOnSessionStart",
       "console": "internalConsole",
       "outputCapture": "std"
+    },
+    {
+      // Install Chrome Debugger
+      // Start app in terminal using 'npm start'
+      // Run this debugger
+      "name": "React Debugger",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}/src"
     }
   ]
 }
