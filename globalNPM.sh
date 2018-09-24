@@ -11,6 +11,8 @@ npm install -g local-npm
 npm install -g nodemon
 npm install -g pm2
 
+npm install mgit -g
+
 #####################
 #      react        #
 #####################
