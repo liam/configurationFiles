@@ -15,7 +15,7 @@ brew install telnet
 brew install zsh
 brew install zsh-completions
 brew install z
-
+brew install jq
 
 ###########################
 #       Brew Cask Installs
