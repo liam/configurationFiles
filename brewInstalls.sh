@@ -24,3 +24,4 @@ brew install jq
 brew cask install dbeaver-community
 brew cask install font-fira-code
 brew cask install iterm2
+brew cask install dbeaver-community
